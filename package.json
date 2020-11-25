@@ -49,7 +49,7 @@
         "glob": "^7.1.6",
         "hammerjs": "^2.0.8",
         "has-symbols": "^1.0.1",
-        "highlight.js": "^9.17.1",
+        "highlight.js": "^10.1.2",
         "isbinaryfile": "^4.0.6",
         "lodash": "^4.17.11",
         "loglevel": "^1.6.8",
